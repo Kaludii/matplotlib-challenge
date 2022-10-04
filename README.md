@@ -1,6 +1,6 @@
 # matplotlib-challenge
 
-### Generate Summary Statistics
+### Generated Summary Statistics
 
 Created a DataFrame of summary statistics. Remember, there is more than one method to produce the results you're after, so the method you use is less important than the result.
 
